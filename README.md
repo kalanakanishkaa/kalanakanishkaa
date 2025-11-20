@@ -1,6 +1,6 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">Hi 👋, I'm Malindu Kanishka</h1>
-<h3 align="center">An undergraduate BSc (Hons) in Electronics and Telecommunication Engineer from Sri Lanka</h3>
+<h1 align="center">Hi 👋, I'm Kalana Kanishka</h1>
+<h3 align="center">An undergraduate BSc (Hons) in Data Science Engineer from Sri Lanka</h3>
 
 <p align="center"> <img src="IMG-20251101-WA0269.jpg" /> </p>
 <table  align="center">
@@ -14,14 +14,12 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **malindukanishka73@gmail.com**
-
-- ⚡ Fun fact **call me as Babara**
+- 📫 How to reach me **kanishkakalana8@gmail.com**
 
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://github.com/Malindu200111/Malindu200111/blob/main/cartoon-man-wearing-glasses.jpg">
+  <img align="center" alt="Coding" width="450" src="https://github.com/kalanakanishkaa/kalanakanishkaa/blob/main/cartoon-man-wearing-glasses.jpg">
 
   
   </td>
@@ -37,13 +35,13 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Malindu200111&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=kalanakanishkaa&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Malindu200111&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kalanakanishkaa&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Malindu200111&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kalanakanishkaa&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -51,11 +49,11 @@
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Malindu200111&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalanakanishkaa&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Malindu200111&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalanakanishkaa&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -63,26 +61,26 @@
 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Malindu200111&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kalanakanishkaa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 ---
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/malshan-nawarathna" target="_blank">
+  <a href="www.linkedin.com/in/kanishka-kalana-67907225b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://fb.com/malshan-nawarathna" target="_blank">
+  <a href="https://www.facebook.com/share/14P5uhEkCZr/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://instagram.com/malshan-nawarathna" target="_blank">
+  <a href="https://www.instagram.com/kani_shkz?igsh=MWY2dG1jenl1ZG1jdw==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:2000malshan@gmail.com">
+  <a href="kalanakanishkaa">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://vimukthi1239.github.io/vimukthi/" target="_blank">
+  <a href="https://github.com/kalanakanishkaa" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
@@ -133,7 +131,7 @@
 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Malindu200111&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117" alt="Top Contributed Repos"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=kalanakanishkaa&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117" alt="Top Contributed Repos"/>
 </div>
 
 ---
@@ -143,7 +141,7 @@
   
   💡 "Engineering the future, one project at a time."
   
-  <p>⭐️ From <a href="https://github.com/Malindu200111">Malindu200111</a> with ❤️</p>
+  <p>⭐️ From <a href="https://github.com/kalanakanishkaa">kalanakanishkaa</a> with ❤️</p>
 </div>
 
 ---
@@ -155,7 +153,7 @@
     <td width="50%">
       <h3 align="center">📡 Smart Water Level Indicator</h3>
       <p align="center">
-        <a href="https://github.com/Malindu200111" target="_blank">
+        <a href="https://github.com/kalanakanishkaa" target="_blank">
           <img src="https://img.shields.io/badge/Repo-View%20Project-blue?style=for-the-badge&logo=github" alt="project link"/>
         </a>
       </p>
@@ -164,7 +162,7 @@
     <td width="50%">
       <h3 align="center">🧮 Ideal Body Weight Calculator</h3>
       <p align="center">
-        <a href="https://github.com/Malindu200111" target="_blank">
+        <a href="https://github.com/kalanakanishkaa" target="_blank">
           <img src="https://img.shields.io/badge/Repo-View%20Project-green?style=for-the-badge&logo=github" alt="project link"/>
         </a>
       </p>
