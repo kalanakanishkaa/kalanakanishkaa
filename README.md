@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Malindu Kanishka</h1>
 <h3 align="center">An undergraduate BSc (Hons) in Electronics and Telecommunication Engineer from Sri Lanka</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=malindu200111&label=Profile%20views&color=0e75b6&style=flat" alt="malindu200111" /> </p>
+<p align="center"> <img src="IMG-20251101-WA0269.jpg" /> </p>
 <table  align="center">
 <tr border="none">
 <td width="50%" align="left">
