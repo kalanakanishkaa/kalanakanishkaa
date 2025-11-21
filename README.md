@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kalana Kanishka</h1>
 <h3 align="center">An undergraduate BSc (Hons) in Data Science Engineer from Sri Lanka</h3>
 
-<p align="center"> <img src="IMG-20251101-WA0269.jpg" /> </p>
+<p align="center"> <img src="https://github.com/kalanakanishkaa/kalanakanishkaa/blob/main/Gemini_Generated_Image_2ll5gm2ll5gm2ll5.png" /> </p>
 <table  align="center">
 <tr border="none">
 <td width="50%" align="left">
