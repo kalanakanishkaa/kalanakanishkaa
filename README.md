@@ -146,29 +146,4 @@
 
 ---
 
-🔭 Current Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📡 Smart Water Level Indicator</h3>
-      <p align="center">
-        <a href="https://github.com/kalanakanishkaa" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-View%20Project-blue?style=for-the-badge&logo=github" alt="project link"/>
-        </a>
-      </p>
-      <p>An embedded system project using PIC16F877A, HC-SR04 ultrasonic sensor, buzzer, LEDs, relay, and motor — including Proteus simulation, MPLAB XC8 coding, and PCB in KiCad.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🧮 Ideal Body Weight Calculator</h3>
-      <p align="center">
-        <a href="https://github.com/kalanakanishkaa" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-View%20Project-green?style=for-the-badge&logo=github" alt="project link"/>
-        </a>
-      </p>
-      <p>A Java Swing application with MySQL database, Devine formula-based weight calculation, health category analysis, and personalized tips.</p>
-    </td>
-  </tr>
-</table>
-
 ---
