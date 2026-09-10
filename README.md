@@ -179,6 +179,17 @@ To build scalable, robust AI & software solutions that transform complex data in
 
 <br/>
 
+<img src="https://github-readme-stats.vercel.app/api?username=kalanakanishkaa&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&v=1" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanakanishkaa&layout=compact&theme=tokyonight&v=1" width="48%" alt="Most Used Languages"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kalanakanishkaa&theme=tokyonight&v=1" width="97%" alt="GitHub Streak Stats"/>
+
+</div>
+
+<br/>
+
 <!-- Full All-In-One Custom Dashboard (Combined Stats, Languages & Streaks) -->
 <img src="https://github-readme-stats.vercel.app/api?username=kalanakanishkaa&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=false" width="48%" alt="GitHub Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanakanishkaa&layout=compact&theme=tokyonight&hide_border=false" width="48%" alt="Most Used Languages"/>
