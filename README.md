@@ -1,19 +1,25 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7000FF,100:FF007F&height=200&section=header&text=Kanishka%20Kalana&fontSize=48&fontColor=ffffff&fontAlignY=38" width="100%" />
+
+<br/>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Banner" width="80" />
 </p>
 
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I am Dasith Randula
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I am Kanishka Kalana
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&lines=Welcome+to+My+GitHub+Profile;Software+Engineering+Undergraduate;AI+%7C+Machine+Learning+%7C+Software+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&lines=Welcome+to+My+GitHub+Profile;Data+Science+Undergraduate;AI+%7C+MLOps+%7C+Cloud+%26+Software+Dev" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dasith-Randula&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kalanakanishkaa&color=blue" alt="Profile Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/Dasith-Randula?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/followers/kalanakanishkaa?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
 <br>
@@ -22,7 +28,6 @@
   <img width="55%" alt="GitHub Header" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 </p>
 
-
 <table>
 <tr>
 
@@ -30,33 +35,32 @@
 
 <h2 align="center"> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> About me <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> </h2>
 
-I am a Software Engineering undergraduate at **Sri Lanka Technological Campus** passionate about building intelligent and practical digital solutions using **Artificial Intelligence, Full-Stack Development, Mobile Applications, and IoT technologies**.
+I am a **Data Science undergraduate** passionate about building intelligent and practical digital solutions using **Artificial Intelligence, Machine Learning, MLOps Pipelines, Cloud Infrastructure, and Full-Stack Development**.
 
-I enjoy transforming ideas into real-world applications by combining software engineering principles with emerging technologies.
+I enjoy transforming raw data into real-world applications by combining data science principles with modern software engineering and cloud technologies.
 
 🚀 Currently working on:
 
-- AI-powered software solutions
-- Machine Learning applications
-- IoT and Embedded Systems
-- Full-stack Web and Mobile Applications
+- Production MLOps Pipelines & Predictive Analytics
+- Machine Learning & Deep Learning Applications
+- Cloud-Native Infrastructures (AWS & Terraform)
+- Full-stack Data-Driven Web Applications
 
 
 💡 Areas of Interest:
 
-- Artificial Intelligence
-- Software Engineering
-- IoT Systems
-- Cloud Technologies
-- Mobile Application Development
+- Data Science & Artificial Intelligence
+- Machine Learning Operations (MLOps)
+- Cloud & DevOps Engineering
+- Predictive Modeling & Analytics
+- Full-Stack Web Development
 
 
 🎯 Goal:
 
-To become a software engineer who creates reliable, scalable, and innovative technology solutions that solve real-world problems.
+To become a Lead Data Scientist & MLOps Engineer who creates reliable, scalable, and innovative technology solutions that solve complex real-world problems.
 
 </td>
-
 
 <td width="40%">
 
@@ -82,15 +86,15 @@ To become a software engineer who creates reliable, scalable, and innovative tec
   👨‍💻 Programming Languages
 </h2>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,javascript,dart&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,java,r&theme=dark"/>
 </p>
 <br>
 
 <h2 align="center"> 
-  🌐 Web & Mobile Development
+  🌐 Web & Backend Development
 </h2>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,flutter,nodejs,express&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,fastapi,mysql&theme=dark"/>
 </p>
 <br>
 
@@ -98,22 +102,13 @@ To become a software engineer who creates reliable, scalable, and innovative tec
   🤖 Artificial Intelligence & Machine Learning
 </h2>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,opencv&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark"/>
 <br>
 - Scikit-learn
 - Random Forest
 - XGBoost
-- Computer Vision
 - Deep Learning
-</p>
-<br>
-
-
-<h2 align="center"> 
-  🗄️ Database & Backend
-</h2>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=firebase,mysql,supabase,postgres&theme=dark"/>
+- MLOps Pipelines
 </p>
 <br>
 
@@ -121,23 +116,11 @@ To become a software engineer who creates reliable, scalable, and innovative tec
   ☁️ Cloud & DevOps
 </h2>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github&theme=dark"/>
-</p>
-<br>
-
-<h2 align="center"> 
-  🔌 IoT & Embedded Systems
-</h2>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark"/>
-<br>
-- ESP32
-- Embedded C
+<img src="https://skillicons.dev/icons?i=aws,docker,terraform,git,github,githubactions&theme=dark"/>
 </p>
 <br>
 
 ---
-
 
 <h2 align="center"> 
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> 
@@ -152,10 +135,10 @@ To become a software engineer who creates reliable, scalable, and innovative tec
 
 <td width="50%" valign="top">
 
-<h3>🤖 MIMO - AI Powered Smart Study Robot</h3>
+<h3>🤖 Churn MLOps Pipeline</h3>
 
 <sub>
-AI-powered learning assistant integrating ESP32, OpenAI API, Computer Vision and speech technologies.
+End-to-end customer churn prediction pipeline served via FastAPI and containerized with Docker.
 </sub>
 
 <p>
@@ -163,41 +146,41 @@ AI-powered learning assistant integrating ESP32, OpenAI API, Computer Vision and
 </p>
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,arduino&theme=dark" height="28" />
+<img src="https://skillicons.dev/icons?i=python,docker,fastapi&theme=dark" height="28" />
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🐾 PetPulse AI</h3>
+
+<sub>
+AI-powered pet health analytics platform integrating intelligent computer vision and speech insights.
+</sub>
+
+<p>
+<img src="https://img.shields.io/badge/✔_Completed-2ea44f?style=flat" />
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="28" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" height="28" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" height="28" />
 </p>
 
 </td>
 
-<td width="50%" valign="top">
-
-<h3>🛒 LankaSmartMart</h3>
-
-<sub>
-Flutter-based grocery shopping application with Firebase authentication, cloud synchronization and offline support.
-</sub>
-
-<p>
-<img src="https://img.shields.io/badge/✔_Completed-2ea44f?style=flat" />
-</p>
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" height="28" />
-</p>
-
-</td>
-
 </tr>
 
 <tr>
 
 <td width="50%" valign="top">
 
-<h3>📊 DevInsight</h3>
+<h3>☁️ AWS ECS Deployment</h3>
 
 <sub>
-AI-powered software engineering platform for GitHub repository analysis, software risk prediction, project-aware prioritization and explainable AI recommendations.
+Automated cloud infrastructure created with Terraform to deploy containerized microservices on AWS.
 </sub>
 
 <p>
@@ -205,28 +188,25 @@ AI-powered software engineering platform for GitHub repository analysis, softwar
 </p>
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" height="28" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/XGBoost-189C3D?style=flat&logo=xgboost&logoColor=white" height="28" />
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker&theme=dark" height="28" />
 </p>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>👗 Explainable Multi-Objective Generative Fashion Design</h3>
+<h3>💰 Smart Expense Tracker</h3>
 
 <sub>
-Deep learning-based fashion design generation combined with demand prediction and explainable feedback through a closed-loop refinement process.
+Full-stack interactive financial tracking application with offline support and predictive budget views.
 </sub>
 
 <p>
-<img src="https://img.shields.io/badge/🟡_Currently_Developing-F2C94C?style=flat" />
+<img src="https://img.shields.io/badge/✔_Completed-2ea44f?style=flat" />
 </p>
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,flutter&theme=dark" height="28" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="28" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark" height="28" />
 </p>
 
 </td>
@@ -237,54 +217,10 @@ Deep learning-based fashion design generation combined with demand prediction an
 
 <td width="50%" valign="top">
 
-<h3>🏥 SmartCare Hospital Management System</h3>
+<h3>📊 E-Commerce Analytics</h3>
 
 <sub>
-Hospital management system developed using Java, Spring Boot, MySQL, Spring Data JPA and REST APIs.
-</sub>
-
-<p>
-<img src="https://img.shields.io/badge/✔_Completed-2ea44f?style=flat" />
-</p>
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,mysql&theme=dark" height="28" />
-<img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="28" />
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>📈 OGBN-Arxiv Graph Intelligence</h3>
-
-<sub>
-Graph Neural Network project using the OGBN-Arxiv citation network for research-paper classification and graph analysis.
-</sub>
-
-<p>
-<img src="https://img.shields.io/badge/✔_Completed-2ea44f?style=flat" />
-</p>
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" height="28" />
-<img src="https://img.shields.io/badge/GCN-4B0082?style=flat" height="28" />
-<img src="https://img.shields.io/badge/GraphSAGE-4B0082?style=flat" height="28" />
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🩺 SmartCare Disease Risk AI</h3>
-
-<sub>
-Explainable Machine Learning system for classifying patients into Low, Medium and High disease-risk categories using healthcare data.
+Comprehensive exploratory data analysis and customer purchasing behavior predictive model.
 </sub>
 
 <p>
@@ -294,21 +230,43 @@ Explainable Machine Learning system for classifying patients into Low, Medium an
 <p>
 <img src="https://skillicons.dev/icons?i=python&theme=dark" height="28" />
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" height="28" />
 </p>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>🔗 More Projects</h3>
+<h3>🚢 Titanic Survival Analysis</h3>
 
 <sub>
-Explore my GitHub repositories for additional AI, software engineering, IoT and application-development projects.
+Supervised Machine Learning classification pipeline with feature engineering and model evaluation.
 </sub>
 
 <p>
-<a href="https://github.com/Dasith-Randula">
+<img src="https://img.shields.io/badge/✔_Completed-2ea44f?style=flat" />
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="28" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="28" />
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="100%" colspan="2" align="center" valign="top">
+
+<h3>🔗 More Projects</h3>
+
+<sub>
+Explore my GitHub repositories for additional AI, Data Science, MLOps, and Cloud deployment projects.
+</sub>
+
+<p>
+<a href="https://github.com/kalanakanishkaa">
 <img src="https://img.shields.io/badge/View_All_Repositories-181717?style=flat&logo=github&logoColor=white" />
 </a>
 </p>
@@ -318,29 +276,26 @@ Explore my GitHub repositories for additional AI, software engineering, IoT and 
 </tr>
 </table>
 
-
 <hr style="height:2px;border-width:0;color:rgb(0, 0, 0);background-color:rgb(0, 0, 0)">
 
 <h2 align="center"> 
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> 
-  GitHub Status 
+  GitHub Dashboard 
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> 
 </h2>
 
 <br>
 
 <p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=Dasith-Randula" alt="GitHub Insights" />
+  <img src="https://github-readme-stats-extended.vercel.app/api?username=kalanakanishkaa&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=kalanakanishkaa&layout=compact&theme=tokyonight" width="49%" alt="Top Languages"/>
 </p>
 
 <br><br>
 
 <hr style="height:2px;border-width:0;color:rgb(0, 0, 0);background-color:rgb(0, 0, 0)">
 
-
-
 ---
-
 
 <h2 align="center"> 
 <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img>
@@ -356,12 +311,10 @@ Explore my GitHub repositories for additional AI, software engineering, IoT and 
 
 ---
 
-<!-- Snake Game Repo View -->
-
 <h2 align="center"> <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img>  Fun Zone <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img> </h2> <br>
 
 <div align="center">
-  
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=FFFFFF&background=0D1B2A&center=true&vCenter=true&width=750&lines=%3E+I+love+mixing+creativity+with+logic+in+coding...!)
 
 &nbsp;&nbsp;
@@ -370,11 +323,7 @@ Explore my GitHub repositories for additional AI, software engineering, IoT and 
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-
 ---
-
-
-<!------------------------- FOOTER ------------------------>
 
 <div align="center">
 
@@ -390,8 +339,6 @@ If you like my work, consider giving a ⭐ to the repositories you find useful.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1720,100:1155CC&height=110&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7000FF,50:00F0FF,100:FF007F&height=120&section=footer" width="100%"/>
 
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
