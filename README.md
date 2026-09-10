@@ -1,34 +1,25 @@
 <div align="center">
 
-<!-- Animated Header GIF -->
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm95aDRyYXRxdzB4aDZsc2d3cnVuczhwcm4zYmxzMXpueThpMDlsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/u0D36I3pveF4D1yH2W/giphy.gif" width="120px" alt="Coding GIF">
 
 # Hi 👋, I am Kanishka Kalana
 
-<!-- Animated Typing Text -->
 <a href="https://readme-typing-svg.herokuapp.com">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=%7C+Data+Science+Undergraduate+%7C;%7C+Machine+Learning+%26+MLOps+%7C;%7C+Full-Stack+%26+Cloud+Dev+%7C" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views & Followers Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=kalanakanishkaa&color=00f0ff&style=flat-square&label=Profile+views)
 [![Followers](https://img.shields.io/github/followers/kalanakanishkaa?style=flat-square&color=blue&label=Followers)](https://github.com/kalanakanishkaa?tab=followers)
 
 <br/>
 
-<!-- Animated Divider Banner -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Header Banner">
 
 </div>
 
 ---
-
-<!-- 2-Column Layout for About Me & Data Science GIF -->
-<table>
-  <tr>
-    <td width="60%" valign="top">
 
 ### 💖 About me 💖
 
@@ -47,21 +38,11 @@ I am a **Data Science undergraduate** passionate about building end-to-end Machi
 🎯 **Goal:**
 To build scalable, robust AI & software solutions that transform complex data into actionable real-world impact.
 
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmgcM/giphy.gif" width="100%" alt="Data Analytics GIF">
-    </td>
-  </tr>
-</table>
-
 ---
 
-<!-- Categorized Tech Stack Section -->
 <div align="center">
 
 ## 🛠️ Tech Stack 🛠️
-
-<br/>
 
 ### 👨‍💻 Programming Languages
 <p align="center">
@@ -115,7 +96,6 @@ To build scalable, robust AI & software solutions that transform complex data in
 
 ---
 
-<!-- Card Style Project Grid -->
 <div align="center">
 
 ## 🚀 Featured Projects 🚀
@@ -124,7 +104,6 @@ To build scalable, robust AI & software solutions that transform complex data in
 
 <table>
   <tr>
-    <!-- Project 1 -->
     <td width="50%" valign="top">
       <h3>🐾 PetPulse AI</h3>
       <p>AI-powered pet health monitoring platform offering intelligent analytics, pet care insights, and real-time tracking.</p>
@@ -135,7 +114,6 @@ To build scalable, robust AI & software solutions that transform complex data in
       <br/><br/>
       👉 <a href="https://github.com/kalanakanishkaa/petpulse-ai"><b>View Repository</b></a>
     </td>
-    <!-- Project 2 -->
     <td width="50%" valign="top">
       <h3>💰 Smart Expense Tracker</h3>
       <p>Full-stack web application designed for interactive personal finance management and expense tracking with visual analytics.</p>
@@ -148,7 +126,6 @@ To build scalable, robust AI & software solutions that transform complex data in
     </td>
   </tr>
   <tr>
-    <!-- Project 3 -->
     <td width="50%" valign="top">
       <h3>🤖 Churn MLOps Pipeline</h3>
       <p>End-to-end customer churn prediction system, served using FastAPI, containerized with Docker, and built following MLOps standards.</p>
@@ -159,7 +136,6 @@ To build scalable, robust AI & software solutions that transform complex data in
       <br/><br/>
       👉 <a href="https://github.com/kalanakanishkaa/churn-mlops-project"><b>View Repository</b></a>
     </td>
-    <!-- Project 4 -->
     <td width="50%" valign="top">
       <h3>☁️ AWS ECS Deployment</h3>
       <p>Infrastructure as Code setup using Terraform to automate microservices deployment on AWS ECS via CI/CD pipelines.</p>
@@ -172,7 +148,6 @@ To build scalable, robust AI & software solutions that transform complex data in
     </td>
   </tr>
   <tr>
-    <!-- Project 5 -->
     <td width="50%" valign="top">
       <h3>📊 E-Commerce Analytics</h3>
       <p>Exploratory Data Analysis and data modeling pipeline uncovering key trends, user behaviors, and retail performance metrics.</p>
@@ -183,7 +158,6 @@ To build scalable, robust AI & software solutions that transform complex data in
       <br/><br/>
       👉 <a href="https://github.com/kalanakanishkaa/ecommerce-analytics-project"><b>View Repository</b></a>
     </td>
-    <!-- Project 6 -->
     <td width="50%" valign="top">
       <h3>🚢 Titanic Survival Analysis</h3>
       <p>Statistical EDA and classification model predicting passenger survival outcomes using feature selection techniques.</p>
