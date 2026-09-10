@@ -1,5 +1,10 @@
 <div align="center">
 
+<!-- Top Gradient Animated Wave Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7000FF,100:FF007F&height=200&section=header&text=Kanishka%20Kalana&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
+
+<br/>
+
 <!-- Glitch Hacker Avatar -->
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZneXNzNWF5eHQydmdmMnR5ZnFzbXk2eWp3aXFxeGZveXUycWZldCZlcD12MV_pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eC8E6jW6D68X1fE5U8/giphy.gif" width="120" alt="Avatar"/>
 
