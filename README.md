@@ -177,6 +177,19 @@ To build scalable, robust AI & software solutions that transform complex data in
 
 ## 📊 GitHub Analytics Dashboard 📊
 
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=kalanakanishkaa&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=kalanakanishkaa&layout=compact&theme=tokyonight" width="48%" alt="Most Used Languages"/>
+</p>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kalanakanishkaa&theme=tokyonight" width="97%" alt="GitHub Streak Stats"/>
+
+</div>
+
 
 <!-- Full All-In-One Custom Dashboard (Combined Stats, Languages & Streaks) -->
 <img src="https://github-readme-stats.vercel.app/api?username=kalanakanishkaa&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=false" width="48%" alt="GitHub Stats"/>
