@@ -1,92 +1,114 @@
 <div align="center">
 
-<!-- Glowing Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7000FF,100:FF007F&height=220&section=header&text=Kanishka%20Kalana&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
+<!-- Glitch Hacker Avatar -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZneXNzNWF5eHQydmdmMnR5ZnFzbXk2eWp3aXFxeGZveXUycWZldCZlcD12MV_pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eC8E6jW6D68X1fE5U8/giphy.gif" width="120" alt="Avatar"/>
+
+# Hi 👋 I am Kanishka Kalana
+
+### <font color="#00F0FF"><code>Data Science & MLOps Undergrad</code></font>
 
 <br/>
 
-<!-- Neon Animated Typing SVG -->
-<a href="https://readme-typing-svg.herokuapp.com">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=%E2%9C%A8+Data+Science+Undergraduate+%7C;%F0%9F%A4%96+Machine+Learning+%26+MLOps+Engine;%E2%98%81%EF%B8%8F+Full-Stack+%26+Cloud+Architect+%7C" alt="Typing SVG" />
-</a>
+![Profile views](https://komarev.com/ghpvc/?username=kalanakanishkaa&color=00f0ff&style=flat-square&label=Profile+views) [![Followers](https://img.shields.io/github/followers/kalanakanishkaa?style=flat-square&color=7000ff&label=Followers)](https://github.com/kalanakanishkaa?tab=followers)
 
-<br/><br/>
+<br/>
 
-<!-- Profile Badges with Neon Theme -->
-![Profile Views](https://komarev.com/ghpvc/?username=kalanakanishkaa&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS)
-[![Followers](https://img.shields.io/github/followers/kalanakanishkaa?style=for-the-badge&color=7000ff&label=FOLLOWERS)](https://github.com/kalanakanishkaa?tab=followers)
-
-<br/><br/>
-
-<!-- Neon Snake/Divider Animation -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Header Divider">
+<!-- Mountain Adventure Illustration Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider"/>
 
 </div>
 
 ---
 
-<!-- 2-Column About Me with Floating 3D Laptop GIF -->
+<!-- 2-Column Layout for About Me & 3D Laptop GIF -->
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="65%" valign="top">
 
-### ✨ <font color="#00F0FF"><b>ABOUT ME</b></font>
+<div align="center">
 
-<p align="left">
-I am a <b>Data Science Undergraduate</b> passionate about architecting end-to-end Machine Learning pipelines, cloud-native deployments, and modern data-driven applications.
+### 🌟 About me 🌟
+
+</div>
+
+I am a **Data Science undergraduate** passionate about building intelligent, scalable digital solutions using **Machine Learning, Deep Learning, MLOps Pipelines, Cloud Infrastructure, and Full-Stack Technologies**.
+
+I enjoy transforming raw data into real-world applications by combining data science principles with modern cloud software engineering.
+
+🚀 **Currently working on:**
+* Production MLOps Pipelines & Predictive Analytics
+* Machine Learning & Deep Learning Applications
+* Cloud-Native Infrastructures (AWS & Terraform)
+* Full-stack Data-Driven Web Applications
+
+💡 **Areas of Interest:**
+* Data Science & Artificial Intelligence
+* Machine Learning Operations (MLOps)
+* Cloud & DevOps Engineering
+* Predictive Modeling & Analytics
+
+🎯 **Goal:**
+
+To become a Lead Data Scientist & MLOps Engineer who creates reliable, scalable, and innovative AI solutions that solve complex real-world problems.
+
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <!-- 3D Floating Isometric Laptop GIF -->
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1bmg3OGdvanZwZnZ4eTlxbjZ2NWkxaXdkandpNXl2dmtzMnJpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svvyyvUyNB/giphy.gif" width="100%" alt="3D Laptop Animation"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+## <code>&lt;/&gt;</code> Tech Stack <code>&lt;/&gt;</code>
+
+<br/>
+
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
 </p>
 
-* 🚀 <b>Currently Building:</b> Production MLOps Pipelines & AWS Cloud Infrastructure
-* 💡 <b>Core Specializations:</b> Predictive Analytics, Machine Learning, Docker & Terraform
-* 🎯 <b>Vision:</b> Transforming complex data into intelligent, scalable real-world solutions
+<br/>
 
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <!-- 3D Floating Isometric Developer Animation -->
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1bmg3OGdvanZwZnZ4eTlxbjZ2NWkxaXdkandpNXl2dmtzMnJpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svvyyvUyNB/giphy.gif" width="100%" alt="3D Laptop Developer Animation"/>
-    </td>
-  </tr>
-</table>
-
----
-
-<div align="center">
-
-## 🛠️ <font color="#00F0FF">TECH STACK & TOOLKIT</font> 🛠️
+### 🌐 Web & Backend Development
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+</p>
 
 <br/>
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-### 🤖 Data Science, AI & ML
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### 🌐 Web Development & Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ☁️ Cloud, MLOps & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+### 🤖 Artificial Intelligence & Machine Learning
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+</p>
+<p><i>- Scikit-Learn - Random Forest - XGBoost - Deep Learning - MLOps -</i></p>
 
 <br/>
 
-<!-- Second 3D Isometric Floating Tech GIF -->
-<img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmgcM/giphy.gif" width="55%" alt="3D Floating Tech GIF"/>
+### ☁️ Cloud, DevOps & Tools
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="githubactions" width="40" height="40"/>
+</p>
 
 </div>
 
@@ -94,51 +116,60 @@ I am a <b>Data Science Undergraduate</b> passionate about architecting end-to-en
 
 <div align="center">
 
-## 🚀 <font color="#00F0FF">FEATURED PROJECTS</font> 🚀
+## 🚀 Projects 🚀
 
 <br/>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🐾 <font color="#00F0FF">PetPulse AI</font></h3>
-      <p>AI-driven pet health monitoring platform offering intelligent analytics and real-time care insights.</p>
-      <img src="https://img.shields.io/badge/%E2%9C%93_Completed-28a745?style=flat-square&logoColor=white"/><br/><br/>
-      👉 <a href="https://github.com/kalanakanishkaa/petpulse-ai"><b>View Repository</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💰 <font color="#00F0FF">Smart Expense Tracker</font></h3>
-      <p>Full-stack finance tracking app built for interactive personal budgeting and expense analytics.</p>
-      <img src="https://img.shields.io/badge/%E2%9C%93_Completed-28a745?style=flat-square&logoColor=white"/><br/><br/>
-      👉 <a href="https://github.com/kalanakanishkaa/smart-expense-tracker"><b>View Repository</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 <font color="#00F0FF">Churn MLOps Pipeline</font></h3>
+      <h3>🤖 Churn MLOps Pipeline</h3>
       <p>End-to-end customer churn prediction pipeline served via FastAPI and containerized with Docker.</p>
-      <img src="https://img.shields.io/badge/%E2%9C%93_Completed-28a745?style=flat-square&logoColor=white"/><br/><br/>
-      👉 <a href="https://github.com/kalanakanishkaa/churn-mlops-project"><b>View Repository</b></a>
+      <img src="https://img.shields.io/badge/%E2%9C%93_Completed-28a745?style=flat-square"/><br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h3>☁️ <font color="#00F0FF">AWS ECS Deployment</font></h3>
-      <p>Infrastructure as Code setup using Terraform to deploy containerized services on AWS ECS.</p>
-      <img src="https://img.shields.io/badge/%E2%9C%93_Completed-28a745?style=flat-square&logoColor=white"/><br/><br/>
-      👉 <a href="https://github.com/kalanakanishkaa/ecs-deployment-project"><b>View Repository</b></a>
+      <h3>🐾 PetPulse AI</h3>
+      <p>AI-powered pet health analytics platform integrating intelligent computer vision and speech insights.</p>
+      <img src="https://img.shields.io/badge/%E2%9C%93_Completed-28a745?style=flat-square"/><br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 <font color="#00F0FF">E-Commerce Analytics</font></h3>
-      <p>Exploratory Data Analysis and predictive modeling pipeline on retail customer behaviors.</p>
-      <img src="https://img.shields.io/badge/%E2%9C%93_Completed-28a745?style=flat-square&logoColor=white"/><br/><br/>
-      👉 <a href="https://github.com/kalanakanishkaa/ecommerce-analytics-project"><b>View Repository</b></a>
+      <h3>☁️ AWS ECS Deployment</h3>
+      <p>Automated cloud infrastructure created with Terraform to deploy containerized microservices on AWS.</p>
+      <img src="https://img.shields.io/badge/%E2%97%8F_Currently_Developing-e3a008?style=flat-square"/><br/><br/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h3>🚢 <font color="#00F0FF">Titanic Survival Analysis</font></h3>
-      <p>Statistical classification machine learning model predicting passenger survival outcomes.</p>
-      <img src="https://img.shields.io/badge/%E2%9C%93_Completed-28a745?style=flat-square&logoColor=white"/><br/><br/>
-      👉 <a href="https://github.com/kalanakanishkaa/Titanic-Survival-Analysis"><b>View Repository</b></a>
+      <h3>💰 Smart Expense Tracker</h3>
+      <p>Full-stack interactive financial tracking application with offline support and predictive budget views.</p>
+      <img src="https://img.shields.io/badge/%E2%9C%93_Completed-28a745?style=flat-square"/><br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 E-Commerce Analytics</h3>
+      <p>Comprehensive exploratory data analysis and customer purchasing behavior predictive model.</p>
+      <img src="https://img.shields.io/badge/%E2%9C%93_Completed-28a745?style=flat-square"/><br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚢 Titanic Survival Analysis</h3>
+      <p>Supervised Machine Learning classification pipeline with feature engineering and model evaluation.</p>
+      <img src="https://img.shields.io/badge/%E2%9C%93_Completed-28a745?style=flat-square"/><br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -149,39 +180,33 @@ I am a <b>Data Science Undergraduate</b> passionate about architecting end-to-en
 
 <div align="center">
 
-## 📊 <font color="#00F0FF">LIVE GITHUB METRICS</font> 📊
+## 📊 Analytics & Activity Dashboard 📊
 
 <br/>
 
-<!-- Stable Analytics Cards -->
+<!-- Full Unified Profile Activity & Stats Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalanakanishkaa&theme=tokyonight" width="100%" alt="GitHub Profile Summary"/>
+
+<br/><br/>
+
+<!-- Stats & Most Used Languages Side by Side -->
 <img src="https://github-readme-stats-extended.vercel.app/api?username=kalanakanishkaa&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
 <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=kalanakanishkaa&layout=compact&theme=tokyonight" width="49%" alt="Top Languages"/>
 
-<br/><br/>
-
-<!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kalanakanishkaa&theme=tokyonight" width="98%" alt="GitHub Streak Stats"/>
-
-<br/><br/>
-
-<!-- GitHub Activity Graph Animation -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kalanakanishkaa&theme=tokyonight&bg_color=1a1b26&color=7000ff&line=00f0ff&point=ffffff&area=true&hide_border=true" width="98%" alt="GitHub Activity Graph"/>
-
 </div>
 
 ---
 
 <div align="center">
 
-### 🌐 <font color="#00F0FF">CONNECT WITH ME</font>
+### 📝 Developer Quote 📝
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kalana-kanishka.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishka-kalana-67907225b)
-[![CV/Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1i7q2dvBb4plhtY0_OstoRYGqyi5PZngT/view?usp=drive_link)
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*  
+> **— Martin Fowler**
 
 <br/>
 
-<!-- Footer Waving Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7000FF,50:00F0FF,100:FF007F&height=120&section=footer" width="100%"/>
+### 🎉 Fun Zone 🎉
 
-</div>
+```bash
+> I love transforming complex data into impactful software solutions! 🚀
