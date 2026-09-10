@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm95aDRyYXRxdzB4aDZsc2d3cnVuczhwcm4zYmxzMXpueThpMDlsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/u0D36I3pveF4D1yH2W/giphy.gif" width="120px" alt="Coding GIF">
-
 # Hi 👋, I am Kanishka Kalana
 
 <a href="https://readme-typing-svg.herokuapp.com">
@@ -13,8 +11,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=kalanakanishkaa&color=00f0ff&style=flat-square&label=Profile+views)
 [![Followers](https://img.shields.io/github/followers/kalanakanishkaa?style=flat-square&color=blue&label=Followers)](https://github.com/kalanakanishkaa?tab=followers)
 
-<br/>
+<br/><br/>
 
+<!-- Modern Header Art Illustration -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Header Banner">
 
 </div>
@@ -174,16 +173,21 @@ To build scalable, robust AI & software solutions that transform complex data in
 
 ---
 
-### 📈 GitHub Analytics
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalanakanishkaa&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="48%" alt="Kanishka's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanakanishkaa&layout=compact&theme=tokyonight" width="48%" alt="Kanishka's Top Languages"/>
-</p>
+## 📊 GitHub Analytics Dashboard 📊
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalanakanishkaa&theme=tokyonight" width="90%" alt="Kanishka's Streak Stats"/>
-</p>
+<br/>
+
+<!-- Full All-In-One Custom Dashboard (Combined Stats, Languages & Streaks) -->
+<img src="https://github-readme-stats.vercel.app/api?username=kalanakanishkaa&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=false" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanakanishkaa&layout=compact&theme=tokyonight&hide_border=false" width="48%" alt="Most Used Languages"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kalanakanishkaa&theme=tokyonight&hide_border=false" width="97%" alt="GitHub Streak Stats"/>
+
+</div>
 
 ---
 
