@@ -1,18 +1,18 @@
 <div align="center">
 
-<!-- Animated GIF Header Banner -->
+<!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:7000FF&height=200&section=header&text=Kanishka%20Kalana&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
 <br/>
 
-<!-- Animated Typing Text -->
+<!-- Animated Typing SVG -->
 <a href="https://readme-typing-svg.herokuapp.com">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=%7C+Data+Science+Undergraduate+%7C;%7C+Machine+Learning+%26+MLOps+%7C;%7C+Full-Stack+%26+Cloud+Dev+%7C" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Profile Badges with GIF Icons -->
+<!-- Profile Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=kalanakanishkaa&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS)
 [![Followers](https://img.shields.io/github/followers/kalanakanishkaa?style=for-the-badge&color=7000ff&label=FOLLOWERS)](https://github.com/kalanakanishkaa?tab=followers)
 
@@ -88,9 +88,9 @@ I am a <b>Data Science Undergraduate</b> passionate about building end-to-end Ma
 
 <br/>
 
-<!-- Reliable Mirror Endpoint for GitHub Stats Card -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kalanakanishkaa&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kalanakanishkaa&layout=compact&theme=tokyonight" width="49%" alt="Top Languages"/>
+<!-- Highly Stable GitHub Stats & Languages -->
+<img src="https://github-readme-stats-extended.vercel.app/api?username=kalanakanishkaa&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=kalanakanishkaa&layout=compact&theme=tokyonight" width="49%" alt="Top Languages"/>
 
 <br/><br/>
 
@@ -99,8 +99,8 @@ I am a <b>Data Science Undergraduate</b> passionate about building end-to-end Ma
 
 <br/><br/>
 
-<!-- Animated Contribution Activity Grid -->
-<img src="https://github-profile-trophy.vercel.app/?username=kalanakanishkaa&theme=tokyonight&column=6" width="100%" alt="GitHub Trophies"/>
+<!-- GitHub Activity Graph Animation -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kalanakanishkaa&theme=tokyonight&bg_color=1a1b26&color=7000ff&line=00f0ff&point=ffffff&area=true&hide_border=true" width="98%" alt="GitHub Activity Graph"/>
 
 </div>
 
