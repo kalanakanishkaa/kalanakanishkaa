@@ -1,12 +1,9 @@
 <div align="center">
 
-<!-- Top Gradient Animated Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7000FF,100:FF007F&height=200&section=header&text=Kanishka%20Kalana&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
+<!-- Top Gradient Waving Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7000FF,100:FF007F&height=200&section=header&text=Kanishka%20Kalana&fontSize=48&fontColor=ffffff&fontAlignY=38" width="100%" />
 
 <br/>
-
-<!-- Glitch Hacker Avatar -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZneXNzNWF5eHQydmdmMnR5ZnFzbXk2eWp3aXFxeGZveXUycWZldCZlcD12MV_pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eC8E6jW6D68X1fE5U8/giphy.gif" width="120" alt="Avatar"/>
 
 # Hi 👋 I am Kanishka Kalana
 
@@ -16,31 +13,22 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=kalanakanishkaa&color=00f0ff&style=flat-square&label=Profile+views) [![Followers](https://img.shields.io/github/followers/kalanakanishkaa?style=flat-square&color=7000ff&label=Followers)](https://github.com/kalanakanishkaa?tab=followers)
 
-<br/>
-
-<!-- Mountain Adventure Illustration Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider"/>
-
 </div>
 
 ---
 
-<!-- 2-Column Layout for About Me & 3D Laptop GIF -->
+<!-- Clean & Effective 2-Column About Me -->
 <table>
   <tr>
-    <td width="65%" valign="top">
+    <td width="60%" valign="top">
 
-<div align="center">
-
-### 🌟 About me 🌟
-
-</div>
+### 🌟 About Me
 
 I am a **Data Science undergraduate** passionate about building intelligent, scalable digital solutions using **Machine Learning, Deep Learning, MLOps Pipelines, Cloud Infrastructure, and Full-Stack Technologies**.
 
 I enjoy transforming raw data into real-world applications by combining data science principles with modern cloud software engineering.
 
-🚀 **Currently working on:**
+🚀 **Currently Working On:**
 * Production MLOps Pipelines & Predictive Analytics
 * Machine Learning & Deep Learning Applications
 * Cloud-Native Infrastructures (AWS & Terraform)
@@ -53,13 +41,11 @@ I enjoy transforming raw data into real-world applications by combining data sci
 * Predictive Modeling & Analytics
 
 🎯 **Goal:**
-
 To become a Lead Data Scientist & MLOps Engineer who creates reliable, scalable, and innovative AI solutions that solve complex real-world problems.
 
     </td>
-    <td width="35%" align="center" valign="middle">
-      <!-- 3D Floating Isometric Laptop GIF -->
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1bmg3OGdvanZwZnZ4eTlxbjZ2NWkxaXdkandpNXl2dmtzMnJpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svvyyvUyNB/giphy.gif" width="100%" alt="3D Laptop Animation"/>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/kalanakanishkaa/kalanakanishkaa/main/3d-tech-laptop.png" width="90%" alt="Tech Workspace" onerror="this.src='https://cdni.iconscout.com/illustration/premium/thumb/developer-working-on-laptop-illustration-download-in-svg-png-gif-file-formats--coding-programming-web-development-software-programmer-pack-people-illustrations-3705912.png'"/>
     </td>
   </tr>
 </table>
@@ -121,7 +107,7 @@ To become a Lead Data Scientist & MLOps Engineer who creates reliable, scalable,
 
 <div align="center">
 
-## 🚀 Projects 🚀
+## 🚀 Featured Projects 🚀
 
 <br/>
 
@@ -185,56 +171,25 @@ To become a Lead Data Scientist & MLOps Engineer who creates reliable, scalable,
 
 <div align="center">
 
-## 📊 Analytics & Activity Dashboard 📊
+## 📊 Analytics & Dashboard 📊
 
 <br/>
-
-<!-- Full Unified Profile Activity & Stats Card -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalanakanishkaa&theme=tokyonight" width="100%" alt="GitHub Profile Summary"/>
-
-<br/><br/>
 
 <!-- Stats & Most Used Languages Side by Side -->
 <img src="https://github-readme-stats-extended.vercel.app/api?username=kalanakanishkaa&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
 <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=kalanakanishkaa&layout=compact&theme=tokyonight" width="49%" alt="Top Languages"/>
 
-</div>
+<br/><br/>
 
----
+### 🌐 Connect With Me
 
-<div align="center">
-name: Update Space Shooter Game
-
-on:
-  schedule:
-    - cron: '0 0 * * *'  # Daily at midnight UTC
-  workflow_dispatch:  # Allow manual trigger
-
-permissions:
-  contents: write
-
-jobs:
-  update-game:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v6
-        with:
-          fetch-depth: 2  # This is crucial!
-
-      - uses: czl9707/gh-space-shooter@v2
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: 'game.gif'
-          strategy: 'random'
-
-### 📝 Developer Quote 📝
-
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*  
-> **— Martin Fowler**
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kalana-kanishka.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishka-kalana-67907225b)
+[![CV/Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1i7q2dvBb4plhtY0_OstoRYGqyi5PZngT/view?usp=drive_link)
 
 <br/>
 
-### 🎉 Fun Zone 🎉
+<!-- Bottom Gradient Waving Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7000FF,50:00F0FF,100:FF007F&height=120&section=footer" width="100%"/>
 
-```bash
-> I love transforming complex data into impactful software solutions! 🚀
+</div>
