@@ -127,8 +127,8 @@ To become a Data Science Engineer who delivers scalable, production-ready AI sol
   <tr>
     <!-- Project 1 -->
     <td width="50%" valign="top">
-      <h3>🤖 Customer Churn Prediction Pipeline</h3>
-      <p>End-to-end machine learning model for churn prediction, served via FastAPI and containerized using Docker with deployment pipelines.</p>
+      <h3>🤖 Customer Churn Prediction</h3>
+      <p>End-to-end machine learning model for customer churn prediction, served via FastAPI and containerized using Docker with MLOps best practices.</p>
       <img src="https://img.shields.io/badge/%E2%9C%93_Completed-28a745?style=flat-square&logoColor=white" alt="Completed Badge"/><br/><br/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28" height="28" alt="Python"/> &nbsp;
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="28" height="28" alt="Docker"/> &nbsp;
@@ -140,7 +140,7 @@ To become a Data Science Engineer who delivers scalable, production-ready AI sol
     <!-- Project 2 -->
     <td width="50%" valign="top">
       <h3>☁️ AWS ECS Cloud Deployment</h3>
-      <p>Infrastructure as Code (IaC) project using Terraform to deploy containerized microservices on AWS ECS with GitHub Actions automation.</p>
+      <p>Infrastructure as Code (IaC) setup using Terraform to deploy containerized microservices on AWS ECS via CI/CD GitHub Actions pipelines.</p>
       <img src="https://img.shields.io/badge/%E2%9C%93_Completed-28a745?style=flat-square&logoColor=white" alt="Completed Badge"/><br/><br/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="28" height="28" alt="Terraform"/> &nbsp;
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="28" height="28" alt="AWS"/> &nbsp;
@@ -151,24 +151,13 @@ To become a Data Science Engineer who delivers scalable, production-ready AI sol
   </tr>
   <tr>
     <!-- Project 3 -->
-    <td width="50%" valign="top">
-      <h3>📊 E-Commerce Analytics Dashboard</h3>
-      <p>Data analytics project utilizing Python and Power BI to analyze customer trends, product performance, and CLV metrics.</p>
+    <td width="100%" colspan="2" valign="top">
+      <h3>📊 E-Commerce Analytics & Insights</h3>
+      <p>Data analytics project utilizing Python and Power BI to analyze e-commerce customer behavior, product trends, and business performance metrics.</p>
       <img src="https://img.shields.io/badge/%E2%9C%93_Completed-28a745?style=flat-square&logoColor=white" alt="Completed Badge"/><br/><br/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28" height="28" alt="Python"/> &nbsp;
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="28" height="28" alt="Pandas"/> &nbsp;
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-      <br/><br/>
-      👉 <a href="https://github.com/kalanakanishkaa"><b>View Repository</b></a>
-    </td>
-    <!-- Project 4 -->
-    <td width="50%" valign="top">
-      <h3>👗 Explainable Generative Fashion Design</h3>
-      <p>Deep learning-based fashion design generation combined with demand prediction and explainable feedback loops.</p>
-      <img src="https://img.shields.io/badge/%F0%9F%AA%A1_Currently_Developing-eab308?style=flat-square&logoColor=white" alt="Developing Badge"/><br/><br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28" height="28" alt="Python"/> &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="28" height="28" alt="PyTorch"/> &nbsp;
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
       <br/><br/>
       👉 <a href="https://github.com/kalanakanishkaa"><b>View Repository</b></a>
     </td>
